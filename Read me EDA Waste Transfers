@@ -1,1 +1,20 @@
-aaa
+Esplorazione Waste Transfer: 
+  - head dataset
+  - value counts attributi più interessanti
+  - exploration e analisi dell'attributo WasteTreatment cioè rifiuti smaltiti o recuperati
+  
+  Prove d'applicazione di algoritmi di classificazione: 
+    - dummy classifier
+    - regressione
+    - registrazione dell'accurancy
+    
+    
+Waste Transfer Exploration:
+   - head dataset
+   - value counts most interesting attributes
+   - exploration and analysis of the WasteTreatment attribute, i.e. waste disposed of or recovered
+  
+   Tests of application of classification algorithms:
+     - dummy classifier
+     - regression
+     - Accurancy registration    
