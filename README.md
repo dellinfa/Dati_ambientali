@@ -12,7 +12,7 @@ La struttura dell'analisi per entrambi i dataset è identico:
 
 
 La sequenzialità è prima Analisi esplorativa dei dataset poi cluster analysis per emissioni co2 e inquinanti.
-
+Ogni notebook ha un proprio dataset.
 
 
 # Environmental_data
